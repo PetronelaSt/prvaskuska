@@ -11,5 +11,6 @@
 public class NewClass {
     public static void main(String[] args) {
         System.out.println("Ahoj, prišlo ti to?");
+        System.out.println("Ahoj, ano, a tebe?");
     }
 }
