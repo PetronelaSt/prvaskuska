@@ -13,5 +13,8 @@ public class NewClass {
         System.out.println("Ahoj, prišlo ti to?");
         System.out.println("Ahoj, ano, a tebe?");
         System.out.println("Jop, už ani fb nepotrebujeme =D");
+        System.out.println("Skusme daco rozumne nakodit :D");
+        
+
     }
 }
